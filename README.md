@@ -1,5 +1,5 @@
 # Примеры кода для курса AHJ
-
+![CI](https://github.com/Quasar-an/ahj-code-master/actions/workflows/web.yml/badge.svg)
 ## Содержание
 
 * [x] [Рабочее окружение](/env)
